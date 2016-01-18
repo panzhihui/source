@@ -13,6 +13,8 @@ Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documen
 
 ### Create a new post
 
+![ces](../img/avatar.jpg)
+
 ``` bash
 $ hexo new "My New Post"
 ```
